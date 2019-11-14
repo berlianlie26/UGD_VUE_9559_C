@@ -77,8 +77,9 @@
                 drawer: null,
                 items: [
                 {
-                    title: 'User Controller', icon: 'mdi-human-male' }, 
+                    title: 'branches Controller', icon: 'mdi-human-male' }, 
                 ],
+                
             }
         },
     }
